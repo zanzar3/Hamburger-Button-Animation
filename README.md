@@ -26,15 +26,13 @@ Adjust the following parameters in the script.js file to customize the animation
 
 setSize: Adjust the size of the hamburger button.
 setSpeed: Set the animation speed in milliseconds.
-marginFirstState: Initial margin parameters for the hamburger bars.
-marginSecendState: Margin parameters for the "X" icon state.
+
 Example
 Here's an example of how to customize the animation parameters in script.js:
-
-## javascript
-Copy code
 const setSize = 0.75; // Increase button size
 const setSpeed = 300; // Slower animation
+
+
 // ...
 Contributing
 Contributions are welcome! If you find any issues or improvements, feel free to open an issue or submit a pull request.
