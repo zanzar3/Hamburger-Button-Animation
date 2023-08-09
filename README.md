@@ -13,24 +13,22 @@ Clone the repository to your local machine:
 
 ## bash
 Copy code
-git clone https://github.com/zanzar3/HamburgerBar.git
-Navigate to the project directory:
+git clone https://github.com/zanzar3/HamburgerBar.git<br>
+
 
 ## Usage
-Adjust the following parameters in the script.js file to customize the animation:
+Adjust the following parameters in the script.js file to customize the animation:<br>
+<b>setSize</b>: Adjust the size of the hamburger button.<br>
+<b>setSpeed</b>: Set the animation speed in milliseconds.<br>
 
-setSize: Adjust the size of the hamburger button.
-
-setSpeed: Set the animation speed in milliseconds.
-
-Example
-Here's an example of how to customize the animation parameters in script.js:
-const setSize = 0.75; // Increase button size
-const setSpeed = 300; // Slower animation
+## Example
+Here's an example of how to customize the animation parameters in script.js:<br>
+const setSize = 0.75; // Increase button size.<br>
+const setSpeed = 300; // Slower animation.<br>
 
 
-// ...
-Contributing
+
+##Contributing
 Contributions are welcome! If you find any issues or improvements, feel free to open an issue or submit a pull request.
 
 ## License
