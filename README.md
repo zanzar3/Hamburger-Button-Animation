@@ -16,11 +16,6 @@ Copy code
 git clone https://github.com/zanzar3/HamburgerBar.git
 Navigate to the project directory:
 
-## bash
-Copy code
-cd HamburgerBar.git
-Open the index.html file in your web browser to see the animation in action.
-
 ## Usage
 Adjust the following parameters in the script.js file to customize the animation:
 
