@@ -20,6 +20,7 @@ Navigate to the project directory:
 Adjust the following parameters in the script.js file to customize the animation:
 
 setSize: Adjust the size of the hamburger button.
+
 setSpeed: Set the animation speed in milliseconds.
 
 Example
