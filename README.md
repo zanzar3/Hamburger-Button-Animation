@@ -13,7 +13,7 @@ Clone the repository to your local machine:
 
 ## bash
 Copy code
-git clone https://github.com/zanzar3/HamburgerBar.git<br>
+git clone https://github.com/zanzar3/Hamburger-Button-Animation.<br>
 
 
 ## Usage
