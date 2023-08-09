@@ -1,0 +1,19 @@
+.BurgerBorder{
+    background-color: aquamarine;
+    display: block;
+    position: relative;
+    text-align: center;
+    transition: 300ms;
+}
+.BurgerX{
+    position: absolute;
+    background-color: black;
+    
+    
+}
+
+
+
+.BurgerBorder:hover{
+    background-color: rgb(185, 235, 227); 
+}
