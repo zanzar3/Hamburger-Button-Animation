@@ -55,10 +55,10 @@ BurgerBorderArray.forEach(BurgerBorderArray => {
              }
          BurgerBorderArray.children[1].style.width = `${100*setSize}px`;
          BurgerBorderArray.children[1].style.hight = `${16*setSize}px`;
+         
+         }, setSpeed);
          BurgerBorderArray.children[0].style.transform = 'rotate(0deg)';
          BurgerBorderArray.children[2].style.transform = 'rotate(0deg)';
-         }, setSpeed);
-         
           
          
      }
